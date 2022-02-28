@@ -1,0 +1,25 @@
+.btnBotnet {
+    background-color: #999999;
+    color : #ffffff !important;
+}
+
+.btnBotnet:hover {
+    background-color: #db1d34;
+    color: #ffffff !important;
+}
+
+/* computers */
+.specs {
+    font-size: 1.1rem;
+}
+
+.price {
+    font-size: 1rem;
+    color: #db1d34;
+    font-weight: 500;
+}
+
+.specs-icon {
+    color: #db1d34;
+    font-size: 1.3rem;
+}
